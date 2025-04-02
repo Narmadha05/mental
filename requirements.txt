@@ -5,3 +5,5 @@ langchain_groq
 chromadb
 torch
 transformers
+sentence-transformers
+huggingface-hub
